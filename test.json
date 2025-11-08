@@ -1,0 +1,35 @@
+[
+    {
+      "word": "example",
+      "translations": [
+        { "translation": "例子，实例", "type": "n." },
+        { "translation": "示例，榜样", "type": "n." }
+      ],
+      "phrases": [
+        { "phrase": "for example", "translation": "例如" },
+        { "phrase": "set an example", "translation": "树立榜样" }
+      ]
+    },
+    {
+      "word": "ability",
+      "translations": [
+        { "translation": "能力，能耐；才能", "type": "n." },
+        { "translation": "技能，技巧", "type": "n." }
+      ],
+      "phrases": [
+        { "phrase": "learning ability", "translation": "学习能力" },
+        { "phrase": "practical ability", "translation": "实践能力" }
+      ]
+    },
+    {
+      "word": "accept",
+      "translations": [
+        { "translation": "接受；同意；承认", "type": "v." },
+        { "translation": "承兑，认可", "type": "v." }
+      ],
+      "phrases": [
+        { "phrase": "accept responsibility", "translation": "承担责任" },
+        { "phrase": "accept an offer", "translation": "接受提议" }
+      ]
+    }
+  ]
